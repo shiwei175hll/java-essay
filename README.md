@@ -17,9 +17,9 @@ this is an essay for java
 
 ## 相关文章
 
-- [Spring应用与集成分析]()
-- [SpringBoot应用与集成分析]()
-- [SpringCloud微服务架构]()
+- [Spring应用与集成分析](https://github.com/shiwei175hll/spring-essay)
+- [SpringBoot应用与集成分析](https://github.com/shiwei175hll/springboot-essay)
+- [SpringCloud微服务架构](https://github.com/shiwei175hll/springcloud-essay)
 
 ## 其他文章
 
