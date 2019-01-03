@@ -11,21 +11,19 @@ this is an essay for java
 - [java基础：classloader类加载]()
 - [java基础：jvm内存模型]()
 - [java基础：垃圾回收以及回收算法]()
-- [java基础：并发包]()
+- [java基础：锁、并发包]()
 - [java基础：数据结构]()
+- [java基础：浅谈java设计模式]()
+- [java基础：单例模式的多种实现]()
+- [java基础：Servlet]()
+- [java基础：IO与NIO]()
+- [jdbc浅谈]()
+- [mybatis详解与sql注入]()
 - **`持续更新中`**
 
 ## 相关文章
 
-- [Spring应用与集成分析](https://github.com/shiwei175hll/spring-essay)
-- [SpringBoot应用与集成分析](https://github.com/shiwei175hll/springboot-essay)
-- [SpringCloud微服务架构](https://github.com/shiwei175hll/springcloud-essay)
-
-## 其他文章
-
-- [SpringBoot工程快速创建]()
-- [Lombok插件使用]()
-- [Markdown使用与图表绘制]()
-- [JMater进行压力测试]()
-- [docker安装使用]()
-- **`持续更新中`**
+- [Spring应用与集成分析](https://github.com/stwyj/spring-essay)
+- [SpringBoot应用与集成分析](https://github.com/stwyj/springboot-essay)
+- [SpringCloud微服务架构](https://github.com/stwyj/springcloud-essay)
+- [开发随笔](https://github.com/stwyj/develop-essay)
