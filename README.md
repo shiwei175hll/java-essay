@@ -6,7 +6,7 @@ this is an essay for java
 
 ## 目录
 
-由于java版本较多，本文大部分以jdk1.8为例
+由于java版本较多，本文大部分以jdk1.8(忽略小版本)为例
 
 - [java基础：classloader类加载]()
 - [java基础：jvm内存模型]()
